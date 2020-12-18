@@ -1,0 +1,16 @@
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\bin\Debug\timetable.exe.config
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\bin\Debug\timetable.exe
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\bin\Debug\timetable.pdb
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.csprojAssemblyReference.cache
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.Properties.Resources.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.csproj.GenerateResource.cache
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.csproj.CoreCompileInputs.cache
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.exe
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.pdb
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.MainForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.AddEmployeeForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.EmployeeForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.AddProjectForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.ProjectsForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.HelpForm.resources
+C:\Users\mite2\Desktop\Time Table\timetable\timetable\obj\Debug\timetable.LoginForm.resources
